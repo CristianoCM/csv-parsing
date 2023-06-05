@@ -1,0 +1,17 @@
+{
+  "name": "csv-parsing",
+  "version": "1.0.0",
+  "description": "CSV Parsing test from Advanced Store IT team",
+  "main": "bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/bin/index.js"
+  },
+  "author": "Cristiano Carvalho Modesto",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.5",
+    "tslib": "^2.5.2",
+    "typescript": "^5.0.4"
+  }
+}
